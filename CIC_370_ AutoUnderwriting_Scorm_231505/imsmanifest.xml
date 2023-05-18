@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5oc8G55yebT" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Cincinnati</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Cincinnati_ORG">
+    <organization identifier="Cincinnati_ORG">
+      <title>Cincinnati</title>
+      <item identifier="Cincinnati_SCO" isvisible="true" identifierref="__5oc8G55yebT_RES">
+        <title>Cincinnati</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5oc8G55yebT_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5hKuwsYW2xO.png" />
+      <file href="mobile/6I69IFzkbOR.png" />
+      <file href="mobile/62BE4FgmHM1.png" />
+      <file href="mobile/5zenzzjX3Ig.png" />
+      <file href="mobile/6JwxenAoBht.png" />
+      <file href="mobile/6pCSQGfU8EM_P_0_0_2020_176.png" />
+      <file href="mobile/6IJd2Cyp47Y.png" />
+      <file href="mobile/676LLfPNueg.png" />
+      <file href="mobile/6GafabXjFV1.png" />
+      <file href="mobile/5WQNhUsRDPd.png" />
+      <file href="mobile/6k4P3DnnTdG.png" />
+      <file href="mobile/66hbAmpKhh0.png" />
+      <file href="mobile/5oA5Nqed1pt.png" />
+      <file href="mobile/6MnpykCbQjZ.png" />
+      <file href="mobile/6NMNZbUa8xq_P_162_0_1087_601.png" />
+      <file href="mobile/6QdYGpRt5Mv.png" />
+      <file href="mobile/5pNEBOk7Dcn.png" />
+      <file href="mobile/6bwfbKGfCW2.png" />
+      <file href="mobile/60BuDS96LrB.png" />
+      <file href="mobile/6NC94DVMr2T.png" />
+      <file href="mobile/6kxQJ2eR5oo.png" />
+      <file href="mobile/6aDYiMTYmr1.png" />
+      <file href="mobile/6fUAkDX1h0w.png" />
+      <file href="mobile/6Pu1Ac400X2_P_309_0_905_264.png" />
+      <file href="mobile/6B4KVgnTsLa_C30.png" />
+      <file href="mobile/5s0BGCQIU6y.png" />
+      <file href="mobile/5jfaq5mSizt.png" />
+      <file href="mobile/5V1MsYmIoG9.png" />
+      <file href="mobile/6U9Pnm215l9.png" />
+      <file href="mobile/6NGiTV5QI55.png" />
+      <file href="mobile/6Gz1zPhiTxZ.png" />
+      <file href="mobile/6KlybEEzy87.png" />
+      <file href="mobile/5qjsi8pcepP.png" />
+      <file href="mobile/5eotk3BqSXy.png" />
+      <file href="mobile/6F6ntKDiFeK_P_175_0_440_39.png" />
+      <file href="mobile/5UlueC8ev3w.png" />
+      <file href="mobile/6U2s6A51FKT_P_78_0_277_39.png" />
+      <file href="mobile/5c7031U03N7.png" />
+      <file href="mobile/6U2s6A51FKT_P_132_0_223_39.png" />
+      <file href="mobile/6gTuPnXT03W.png" />
+      <file href="mobile/6LUUMV8IaIm.png" />
+      <file href="mobile/6F6ntKDiFeK_P_335_0_280_39.png" />
+      <file href="mobile/5dL1b5aMSug.png" />
+      <file href="mobile/6F6ntKDiFeK_P_163_0_451_42.png" />
+      <file href="mobile/6WBb7Cvf0pE.png" />
+      <file href="mobile/6rfo96IIDze.png" />
+      <file href="mobile/5lnV6H6zE9c.png" />
+      <file href="mobile/5bNFBWXPx1r.png" />
+      <file href="mobile/6rjNfW7papo.png" />
+      <file href="mobile/5bi9tYtUCPc.png" />
+      <file href="mobile/6f13FAF8O4G.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/CIC_AutoUnderwriting_Sketch_Descargable.pdf" />
+      <file href="mobile/Shape6BrenuMagd1.png" />
+      <file href="mobile/Shape6pk81jVTKv3.png" />
+      <file href="mobile/Shape6CXQBVR61uf.png" />
+      <file href="mobile/Shape6ZTl0wXRWT9.png" />
+      <file href="mobile/Shape6AzULQS59s8.png" />
+      <file href="mobile/Shape6KPSg3uSDab.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5ea4nnhaylh.js" />
+      <file href="html5/data/js/5g2Jvs1WZq4.js" />
+      <file href="html5/data/js/5oA6495WhU5.js" />
+      <file href="html5/data/js/5wa73Xdk5C8.js" />
+      <file href="html5/data/js/6a7HPbKT2zr.js" />
+      <file href="html5/data/js/6em1YNZiRLZ.js" />
+      <file href="html5/data/js/6mRMmxggNRn.js" />
+      <file href="html5/data/js/6n1jm6FyVw2.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
